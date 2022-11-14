@@ -1,0 +1,15 @@
+C:\work\SeekAssignment\SeekAssignment\obj\Debug\net6.0\SeekAssignment.csproj.AssemblyReference.cache
+C:\work\SeekAssignment\SeekAssignment\obj\Debug\net6.0\SeekAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\SeekAssignment\SeekAssignment\obj\Debug\net6.0\SeekAssignment.AssemblyInfoInputs.cache
+C:\work\SeekAssignment\SeekAssignment\obj\Debug\net6.0\SeekAssignment.AssemblyInfo.cs
+C:\work\SeekAssignment\SeekAssignment\obj\Debug\net6.0\SeekAssignment.csproj.CoreCompileInputs.cache
+C:\work\SeekAssignment\SeekAssignment\bin\Debug\net6.0\SeekAssignment.exe
+C:\work\SeekAssignment\SeekAssignment\bin\Debug\net6.0\SeekAssignment.deps.json
+C:\work\SeekAssignment\SeekAssignment\bin\Debug\net6.0\SeekAssignment.runtimeconfig.json
+C:\work\SeekAssignment\SeekAssignment\bin\Debug\net6.0\SeekAssignment.dll
+C:\work\SeekAssignment\SeekAssignment\bin\Debug\net6.0\SeekAssignment.pdb
+C:\work\SeekAssignment\SeekAssignment\obj\Debug\net6.0\SeekAssignment.dll
+C:\work\SeekAssignment\SeekAssignment\obj\Debug\net6.0\refint\SeekAssignment.dll
+C:\work\SeekAssignment\SeekAssignment\obj\Debug\net6.0\SeekAssignment.pdb
+C:\work\SeekAssignment\SeekAssignment\obj\Debug\net6.0\SeekAssignment.genruntimeconfig.cache
+C:\work\SeekAssignment\SeekAssignment\obj\Debug\net6.0\ref\SeekAssignment.dll
